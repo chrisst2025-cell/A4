@@ -24,19 +24,19 @@
     "ignoreCommand": []
   },
   "adminBot": [
-    "61570000466312",
-    "100078639797619",
+    "61591024904663",
+    "",
     ""
   ],
   "whiteListMode": {
     "enable": false,
     "whiteListIds": [
-      "61570000466312"
+      "61591024904663"
     ],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "nickNameBot": "「 SAIF-BOT 」🩷🪽",
-  "prefix": "/",
+  "nickNameBot": "「 MINATO-BOT 」🩷🪽",
+  "prefix": ".",
   "database": {
     "type": "sqlite",
     "uriMongodb": "",
